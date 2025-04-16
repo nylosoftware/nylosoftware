@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Buster</h1>
+<h1 align="center">Hello There 👋, I'm Nylo</h1>
 <h3 align="center">Software Developer | FiveM Enthusiast | Founder of Nylo Software</h3>
 
 - 🚀 Passionate about Full-Stack Development and Game Scripting
@@ -6,7 +6,7 @@
 
 <h3 align="left">How to Connect:</h3>
 <p align="left">
-  <a href="https://discord.gg/nylosoftware" target="blank">
+  <a href="https://discord.gg/NwpgYCpux6" target="blank">
     <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/nylosoftware" target="blank">
