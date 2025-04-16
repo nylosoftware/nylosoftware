@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Buster (Founder of Nylo Software)</h1>
+<h1 align="center">Hello There 👋, I'm Nylo (Founder of Nylo Software)</h1>
 <h3 align="center">Software Developer & FiveM Enthusiast</h3>
 
 - 🚜 Agricultural Professional in Central Illinois, also working in Law Enforcement
