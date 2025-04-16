@@ -1,13 +1,13 @@
-<h1 align="center">Hello There 👋, I'm Nylo (Founder of Nylo Software)</h1>
-<h3 align="center">Software Developer & FiveM Enthusiast</h3>
+<h1 align="center">Hello There 👋, I'm Buster</h1>
+<h3 align="center">Software Developer | FiveM Enthusiast | Founder of Nylo Software</h3>
 
-- 🚜 Agricultural Professional in Central Illinois, also working in Law Enforcement
-- 🎮 Passionate about FiveM Development, Cybersecurity, and Full-Stack Web Development
+- 🚀 Passionate about Full-Stack Development and Game Scripting
+- 🎮 I specialize in creating custom FiveM resources and tools
 
-<h3 align="left">How To Reach Me:</h3>
+<h3 align="left">How to Connect:</h3>
 <p align="left">
   <a href="https://discord.gg/nylosoftware" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Nylo Software Discord" />
+    <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/nylosoftware" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 Skill Sets:
+### 💻 Skills & Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,18 +42,18 @@
 
 ---
 
-### 🚀 My Work:
+### 🚀 About My Work:
 
-- **Founder of Nylo Software**: Providing custom FiveM resources and scripts for gaming communities
-- **FiveM Development**: Specializing in frameworks like QB-Core, QBox, and ESX
-- **Full-Stack Development**: Expertise in both front-end and back-end, including React, TypeScript, Node.js, MySQL, and more.
-
----
-
-### 📫 Let's Connect:
-
-- Feel free to reach out to me on [Discord](https://discord.gg/nylosoftware) or check out my [GitHub](https://github.com/nylosoftware) to see my projects and contributions.
+- **Founder of Nylo Software**: Creating custom FiveM resources to enhance gaming experiences.
+- **FiveM Developer**: Specializing in server-side scripting, UI/UX design, and integrations.
+- **Full-Stack Development**: Expertise in React, Node.js, TypeScript, MySQL, and more.
 
 ---
 
-<!-- Optionally, you can add a donation link or additional profile information -->
+### 📫 Let's Collaborate:
+
+Feel free to reach out via [Discord](https://discord.gg/nylosoftware) or browse my [GitHub](https://github.com/nylosoftware) for the latest projects and resources.
+
+---
+
+<!-- Add any additional information or personal notes if desired -->
